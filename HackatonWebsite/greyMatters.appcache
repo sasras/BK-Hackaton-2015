@@ -1,0 +1,29 @@
+CACHE MANIFEST
+index.html
+About.html
+Diagrams.html
+Diseases.html
+Organization.html
+Quiz.html
+css/bootstrap.min.css
+css/jumbo-center.css
+js/bootstrap.min.js
+custom-css/navLogo.css
+js/bootstrap.js
+https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+assets/1254880_72709589.jpg
+assets/brainLogo(2).png
+assets/brain-MS.jpg
+assets/brain-infection.jpg
+assets/brain-tumor.jpg
+assets/brain-vacular.jpg
+assets/BrainDigram2.jpg
+assets/brainLogo.png
+assets/BrainTrauma.jpg
+assets/InteralBrain.jpg
+assets/neruoBrain.jpg
+
+
+FALLBACK:
+/ /offline.html
